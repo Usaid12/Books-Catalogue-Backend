@@ -1,6 +1,8 @@
 .App {
   text-align: center;
+  background-image: url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bGlicmFyeXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80');
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +37,40 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.custom-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.brand-title {
+  font-size: 24px; /* Adjust font size as needed */
+  font-weight: bold;
+  color: bisque;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+}
+
+
+
+/* TextBanner.css */
+.text-banner {
+  width: 100vw; /* 100% of the viewport width */
+  height: 20vh; /* 100% of the viewport height */
+
+}
+
+.text-black {
+  color: black; /* Text color */
+}
+
+.book_bg{
+  width: 100%; 
+  height: 100vh;
 }
