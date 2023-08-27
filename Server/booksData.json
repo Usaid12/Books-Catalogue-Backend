@@ -1,0 +1,48 @@
+[
+    {
+      "books": {
+        "title": "Harry Potter",
+        "author": "J.K Rowling",
+        "genre": ["fantasy", "fiction"],
+        "image": "http://i2.wp.com/geekdad.com/wp-content/uploads/2013/02/HP1-Kibuishi.jpg",
+        "description": "A fictional book about the child hero and magician Harry Potter."
+      }
+    },
+    {
+      "books": {
+        "title": "Treasure Island",
+        "author": "Robert Louis Stevenson",
+        "genre": ["mystery", "fantasy"],
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781416500292_9781416500292_hr.jpg",
+        "description": "Tells a story of \"buccaneers and buried gold\". It is considered a coming-of-age story and is noted for its atmosphere, characters, and action."
+      }
+    },
+    {
+      "books": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": ["fiction", "drama"],
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71t5Swpxh6L.jpg",
+        "description": "A novel set in the American South during the 1930s, dealing with the issues of race and class."
+      }
+    },
+    {
+      "books": {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": ["dystopian", "fiction"],
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81bL3XjRPXL.jpg",
+        "description": "A novel depicting a totalitarian future society controlled by a single party and an omnipresent surveillance state."
+      }
+    },
+    {
+      "books": {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": ["romance", "fiction"],
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51xIo0vARyL.jpg",
+        "description": "A classic romantic novel that explores themes of social standing, marriage, and love."
+      }
+    }
+]
+  

@@ -1,6 +1,6 @@
-const express=require("express")
-const router=express.Router
-const dbConnect=require("../mongoDb")
+const express=require("express");
+const router=express.Router;
+const dbConnect=require("../mongoDb");
 
 const getBooks=async(req,res)=>{
     try {
